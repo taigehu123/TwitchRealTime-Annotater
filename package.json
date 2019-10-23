@@ -1,0 +1,25 @@
+{
+  "name": "twitch-plays-rev-ai",
+  "version": "1.0.0",
+  "description": "Hello, world",
+  "main": "rtmp_server.js",
+  "dependencies": {
+    "node-media-server": "^2.1.3",
+    "revai-node-sdk": "^2.2.0",
+    "ws": "^7.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revdotcom/hackathon2019.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revdotcom/hackathon2019/issues"
+  },
+  "homepage": "https://github.com/revdotcom/hackathon2019#readme"
+}
